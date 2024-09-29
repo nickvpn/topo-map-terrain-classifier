@@ -8,11 +8,8 @@ This project uses a Support Vector Machine (SVM) to classify terrain types in a 
 
 The model is trained to recognize distinct color patterns in maps and is capable of segmenting maps based on these features. The classifier is designed to work with simple topographical maps where terrain types are represented by clear and distinguishable colors.
 
-## View the Code in a Jupyter Notebook
+You can view and explore the project code directly in my [Jupyter Notebook](SVMtopo.ipynb).
 
-You can view and explore the project code directly in this Jupyter Notebook:
-
-[View the Jupyter Notebook](SVMtopo.ipynb)
 
 ## Features
 
