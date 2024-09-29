@@ -24,7 +24,7 @@ You will need Python 3.x and the following libraries:
 
 ## Installation
 
-To install the required libraries, open a terminal and run:
+To install the required libraries locally, open a terminal (preferably in a python environment) and run:
 
 ```bash
 pip install numpy matplotlib pillow scikit-learn
