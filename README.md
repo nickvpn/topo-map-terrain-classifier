@@ -1,4 +1,4 @@
-# Topo Map Terrain Classifier
+# SVM Terrain Classifier
 
 This project uses a Support Vector Machine (SVM) to classify terrain types in a topographical map, specifically focusing on identifying three terrain categories:
 
