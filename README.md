@@ -16,7 +16,7 @@ The model is trained to recognize distinct color patterns in maps and is capable
 
 ## Example Output
 
-Here is an example of the terrain classification:
+Here is an example of the terrain classification utilizing a linear kernel:
 ![Classified Terrain Map](images/usasvmlinear.png)
 
 ## Prerequisites
