@@ -14,6 +14,11 @@ The model is trained to recognize distinct color patterns in maps and is capable
 - **Extensible**: Can be adapted to classify other terrain types with additional training data.
 - **Modular Code**: Easy to modify and extend the model to support different machine learning algorithms.
 
+## Example Output
+
+Here is an example of the terrain classification:
+![Classified Terrain Map](images/usasvmlinear.png)
+
 ## Prerequisites
 
 You will need Python 3.x and the following libraries:
